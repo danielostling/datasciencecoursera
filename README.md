@@ -1,4 +1,4 @@
-test-repo
+datasciencecoursera
 =========
 
 Scratch repo
